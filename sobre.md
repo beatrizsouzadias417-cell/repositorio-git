@@ -1,0 +1,1 @@
+Sou uma estudante e estou aprendendo algumas linguagens de programação e outras ferramentas.
