@@ -12,3 +12,4 @@ Meu objetivo com o curso de Git e GitHub é conhecer e aprender a usar essa ferr
 -Python
 -Godot (desenvolvimento de jogos)
 -Git e GitHub
+Pretendo aprender mais coisas também
