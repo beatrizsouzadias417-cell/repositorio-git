@@ -1,4 +1,4 @@
-Nome: Beatriz de Souza Dias
+Nome: Beatriz de Souza Dias - Meus projetos
 
 *Apresentação e objetivo
 Sou uma aluna do primeiro ano do técnico em informática e tenho muito interesse na área de TI, principalmente em programação. 
@@ -18,3 +18,5 @@ MEUS PROJETOS
 -Jogo
 -Quiz interativo
 -Análise de artigos
+
+Esses são alguns dos projetos que quero desenvolver
