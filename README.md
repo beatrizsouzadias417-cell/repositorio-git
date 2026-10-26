@@ -1,4 +1,4 @@
-Nome: Beatriz de Souza Dias
+Nome: Beatriz de Souza Dias - Minhas habilidades
 
 *Apresentação e objetivo
 Sou uma aluna do primeiro ano do técnico em informática e tenho muito interesse na área de TI, principalmente em programação. 
